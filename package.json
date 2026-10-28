@@ -6,7 +6,7 @@
   "type": "commonjs",
   "main": "server/index.js",
   "engines": {
-    "node": ">=22.13.0"
+    "node": ">=22.23.4"
   },
   "scripts": {
     "start": "node --disable-warning=ExperimentalWarning server/index.js",
